@@ -1,0 +1,8 @@
+# requirements_keras.txt
+# tf_App_keras.py (.keras 모델 / TensorFlow) 배포용 패키지 목록
+# 사용 라이브러리: streamlit, tensorflow, numpy, matplotlib, pillow(PIL)
+streamlit==1.38.0
+tensorflow==2.17.0
+numpy==1.26.4
+matplotlib==3.9.2
+pillow==10.4.0
